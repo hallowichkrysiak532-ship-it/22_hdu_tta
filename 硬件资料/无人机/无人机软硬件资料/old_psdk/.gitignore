@@ -1,0 +1,14 @@
+# 编译输出目录
+build/
+bin/
+
+# 日志文件和目录
+Logs/
+*.log
+
+# VS Code 编辑器配置
+.vscode/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db

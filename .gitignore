@@ -1,0 +1,21 @@
+# ============================================================
+# 超出 GitHub 单文件 100 MB 限制（或体积过大）的文件不纳入版本库
+# 需要时请从官方渠道下载，说明见 视觉部分.md
+# ============================================================
+
+# DJI Assistant 2 安装包（约 353 MB），DJI 官网下载
+硬件资料/无人机/无人机软硬件资料/DJI Assistant 2 (Enterprise Series)*.exe
+
+# PSDK liveview 示例的 TensorFlow 预训练模型（各约 97 MB）
+**/liveview/data/tensorflow/frozen_inference_graph.pb
+
+# RoboMaster EP 手册（约 86–96 MB），DJI 官网下载
+硬件资料/小车/RoboMaster_EP_Quick_Start_Guide_Multi_0707.pdf
+硬件资料/小车/RoboMaster_EP_User_Manual_v1.2_CHS_1.pdf
+
+# ============================================================
+# 系统与编辑器产生的无关文件
+# ============================================================
+Thumbs.db
+desktop.ini
+.DS_Store
